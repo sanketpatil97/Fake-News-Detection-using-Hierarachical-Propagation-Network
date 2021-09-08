@@ -1,1 +1,1 @@
-# Fake-News-Detection-using-Hierarachical-Propagation-Network
+# Fake-News-Detection-using-Hierarchical-Propagation-Network
